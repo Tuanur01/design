@@ -74,7 +74,6 @@ h1.sectiontitle {
     margin: 0px auto;
     margin-bottom: 10px;
     text-align: center;
-    color: #000
 }
 
 /* Color section CSS */
@@ -84,6 +83,7 @@ h1.sectiontitle {
     width: 150px;
     text-align: center;
     margin: 5px;
+    color: #000
 }
 
 #thistle {
